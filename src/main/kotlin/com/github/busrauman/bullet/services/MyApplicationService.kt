@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.busrauman.bullet.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.busrauman.bullet.MyBundle
 
 class MyApplicationService {
 
